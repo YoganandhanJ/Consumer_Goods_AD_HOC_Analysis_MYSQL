@@ -15,5 +15,5 @@ Consumer Goods Analytics File: The SQL queries for each of the ten ad hoc reques
 
 4.Report Generation,
 
-5.Problem Solving and Decision Making/
+5.Problem Solving and Decision Making
 
